@@ -1,0 +1,3 @@
+[submodule "Logical/Tools"]
+	path = Logical/Tools
+	url = https://github.com/HakkeBoo/Tools
